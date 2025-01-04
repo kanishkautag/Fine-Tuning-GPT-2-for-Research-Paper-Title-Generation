@@ -14,7 +14,7 @@ This repository contains a project that fine-tunes the GPT-2 language model for 
 Visit the live app: [**Paper Title Generator**](https://paper-title-generator.streamlit.app/)
 
 ## **Dataset**
-The dataset consists of a CSV file (`arxiv_cs_papers.csv`) with the following columns:
+The dataset was scraped by me from arXiv and consists of a CSV file (`arxiv_cs_papers.csv`) with the following columns:
 - `abstract`: The abstract of the paper.
 - `title`: The title of the paper.
 
